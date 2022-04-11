@@ -1,2 +1,2 @@
 # DS-AI
-Data Scienceprojects
+Data Science-ML Projects
